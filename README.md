@@ -1,2 +1,2 @@
-# .Net_CQRS_Kafka_Demo
-.NET Microservices CQRS &amp; Event Sourcing with Kafka
+# My .Net CQRS & Event Sourcing with Kafka Demo
+.NET Microservices CQRS & Event Sourcing with Kafka
